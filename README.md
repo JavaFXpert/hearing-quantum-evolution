@@ -1,0 +1,4 @@
+# hearing-quantum-evolution
+When a quantum state evolves, there are 2^n basis states whose probability amplitudes and phases that may change. Quantum states may be represented in a Hilbert space, and their evolution may be modeled by unitary vectors from which 2^n wave patterns may be derived, each having amplitude and frequency. 
+
+Unfortunaltely, nature doesn't permit us to observe, or rather listen to, a quantum state evolving. However, quantum simulators such as those supplied in Qiskit may be employed to model this evolution and compute its wave patterns. These oscillations could be used as a starting point in traditional audio synthesis, so that we may listen to unobservable but fundamental melodies and harmonies happening all around us.
