@@ -9,3 +9,4 @@ Unfortunately, nature doesn't permit us to observe, or rather listen to, a quant
 * [Playground for exploring music fundamentals](https://learningmusic.ableton.com/)
 * [Playground for exploring audio synthesis](https://learningsynths.ableton.com/)
 * [Build Your Own Python Synthesizer, Part 1](https://python.plainenglish.io/making-a-synth-with-python-oscillators-2cb8e68e9c3b)
+* [Interval ratios](https://en.wikipedia.org/wiki/Interval_ratio)
